@@ -1,4 +1,2 @@
 # Zork
-A game
-
-# Zork
+An interactive fictional computer game
